@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Imanol 👋</h1>
+<h1 align="center">Hi, I'm Imanol </h1>
 
 <p align="center">
   <em>Building open source tools at the intersection of games, AI, and developer workflows.</em><br/>
